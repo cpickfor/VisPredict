@@ -14,3 +14,6 @@ Application that automatically generates real time weather and condition data at
 - Add in visibility calculation
 - Also need time of day
 - Recent vis review page
+- Heat map style for vis: brown, green, blue
+- Color selection
+- Feet selection
